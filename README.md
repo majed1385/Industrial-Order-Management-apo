@@ -1,4 +1,4 @@
-# Industrial-Order-Management-apo
+# Industrial-Order-Management-app
 Desktop application for managing industrial orders, customer data, dimensions, and weight calculations.
 # Industrial Order Management App
 
